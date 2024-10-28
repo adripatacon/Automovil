@@ -7,10 +7,7 @@ public class Automovil {
     // Constructores
 
     public Automovil() {
-        /* 1. Tiene el mismo nombre de la clase y comienza con mayúscula.
-           2. No devuelve nada porque solo reserva un espacio de memoria.
-           3. Puede o no recibir parámetros.
-         */
+       
     }
 
     // Sobrecarga de métodos y polimorfismo.
